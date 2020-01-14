@@ -1,23 +1,23 @@
-## First Name Last Name
+## Alex Pierstorff
 
 ### Spring 2020 
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Business Analytics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- MAN 4558 Lean Management
 
-- Course 2
+- BUL 2241 Business Law
 
-- Course 3
+- ECO 2013 Macroeconomics
 
-- Course 4
+- FIN 2001 Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Jeep Wranglers
 
-- Thing 2
+- Weight Lifting
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
