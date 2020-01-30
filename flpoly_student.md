@@ -21,3 +21,11 @@ I am _passionate about_:
 - Weight Lifting
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+
+| Prefix  | Number   | Name                                            | Credits |
+|---------|----------|-------------------------------------------------|---------|
+| **BUL** | **2241** | *Law, Public Policy, Negotiation, and Business* | 3       |
+| **ECO** | **2013** | *Principles of Macroeconomics*                  | 3       |
+| **FIN** | **2001** | *Introduction to Business Finance*              | 3       |
+| **MAN** | **4558** | *Lean Operations Management*                    | 3       |
+| **COP** | **2073** | *Introduction to Data Science*                  | 3       |
